@@ -15,4 +15,4 @@ $$
 \end{align}
 $$
 
-<img src="repressilator.pdf" alt="A beautiful scenery" width="300"/>
+<img src="repressilator.png" alt="A beautiful scenery" width="300"/>
