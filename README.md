@@ -14,3 +14,5 @@ $$
 \frac{d}{dt}\lambda cI = \frac{\alpha_0}{1 + tetR^n} - \lambda cI
 \end{align}
 $$
+
+<img src="repressilator.pdf" alt="A beautiful scenery" width="300"/>
