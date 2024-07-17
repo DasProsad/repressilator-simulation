@@ -3,7 +3,9 @@ Simulation of repressilator from Liebler and Elowitz, Nature, 2000 (https://doi.
 
 ## Minimal model of repressilator
 
+<p style="text-align: center;">
 <img src="repressilator_schematic.png" alt="A beautiful scenery" width="300"/>
+</p>
 
 It can be modelled by three coupled differential equations:
 
@@ -15,10 +17,14 @@ $$
 \end{align}
 $$
 
+<p style="text-align: center;">
 <img src="repressilator.png" alt="A beautiful scenery" width="300"/>
+</p>
 
-
+<p style="text-align: center;">
 <img src="tetr_vs_laci.png" alt="A beautiful scenery" width="300"/>
+</p>
 
-
+<p style="text-align: center;">
 <img src="lci_vs_tetr.png" alt="A beautiful scenery" width="300"/>
+</p>
