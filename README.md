@@ -21,4 +21,4 @@ $$
 <img src="tetr_vs_laci.png" alt="A beautiful scenery" width="300"/>
 
 
-<img src="tetr_vs_laci.png" alt="A beautiful scenery" width="300"/>
+<img src="laci_vs_tetr.png" alt="A beautiful scenery" width="300"/>
