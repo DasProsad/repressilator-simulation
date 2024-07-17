@@ -16,3 +16,6 @@ $$
 $$
 
 <img src="repressilator.png" alt="A beautiful scenery" width="300"/>
+
+
+<img src="tetr_vs_laci.png" alt="A beautiful scenery" width="300"/>
