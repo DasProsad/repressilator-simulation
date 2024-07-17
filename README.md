@@ -7,8 +7,8 @@ repressilator_schematic.png
 
 $$
 \begin{align}
-\frac{d}{dt}tetR = \alpha_0 * \frac{1}{1 + lacI^n} - tetR \\
-\frac{d}{dt}LacI = \alpha_0 * \frac{1}{1 + \lambda cI^n} - LacI \\
-\frac{d}{dt}\lambda cI = \alpha_0 * \frac{1}{1 + tetR^n} - \lambda cI
+\frac{d}{dt}tetR = \frac{alpha_0}{1 + lacI^n} - tetR \\
+\frac{d}{dt}LacI = \frac{alpha_0}{1 + \lambda cI^n} - LacI \\
+\frac{d}{dt}\lambda cI = \frac{alpha_0}{1 + tetR^n} - \lambda cI
 \end{align}
 $$
