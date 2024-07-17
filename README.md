@@ -3,7 +3,7 @@ Simulation of repressilator from Liebler and Elowitz, Nature, 2000 (https://doi.
 
 ## Minimal model of repressilator
 
-![repressilator](repressilator_schematic.png)
+<img src="repressilator_schematic.png" alt="A beautiful scenery" width="300"/>
 
 $$
 \begin{align}
