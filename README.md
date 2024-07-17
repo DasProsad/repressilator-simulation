@@ -6,6 +6,7 @@ Simulation of repressilator from Liebler and Elowitz, Nature, 2000 (https://doi.
 <img src="repressilator_schematic.png" alt="A beautiful scenery" width="300"/>
 
 It can be modelled by three coupled differential equations:
+
 $$
 \begin{align}
 \frac{d}{dt}tetR = \frac{\alpha_0}{1 + lacI^n} - tetR \\
