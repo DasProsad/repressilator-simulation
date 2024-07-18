@@ -3,7 +3,7 @@ Simulation of repressilator from Liebler and Elowitz, Nature, 2000 (https://doi.
 
 ## Minimal model of repressilator
 
-<p align="center"> <img src="repressilator_schematic.png" alt="A beautiful scenery" width="300"/> </p>
+<p align="center"> <img src="Repressilator_diagram.png" alt="A beautiful scenery" width="300"/> </p>
 
 It can be modelled by three coupled ODEs:
 
