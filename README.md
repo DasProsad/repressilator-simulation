@@ -17,4 +17,4 @@ $$
 
 The equations can be solved analytically or numerically. A ```python``` script was written to solve and plot the dynamics of the repressilator, they show oscilatlion and limit cycle.
 
-<p align="center"> <img src="rep.png" alt="simulation of repressilator" width="300"/> </p>
+<p align="center"> <img src="rep.png" alt="simulation of repressilator" width="500"/> </p>
