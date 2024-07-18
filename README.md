@@ -5,7 +5,7 @@ Simulation of repressilator from Liebler and Elowitz, Nature, 2000 (https://doi.
 
 <p align="center"> <img src="repressilator_schematic.png" alt="A beautiful scenery" width="300"/> </p>
 
-It can be modelled by three coupled differential equations:
+It can be modelled by three coupled ODEs:
 
 $$
 \begin{align}
@@ -14,6 +14,8 @@ $$
 \frac{d}{dt}\lambda cI = \frac{\alpha_0}{1 + tetR^n} - \lambda cI
 \end{align}
 $$
+
+The equations can be solved analytically or numerically. A ```python``` script was written to solve and plot the dynamics of the repressilator, they show oscilatlion and limit cycle.
 
 <p align="center"> <img src="repressilator.png" alt="simulation of repressilator" width="300"/> </p>
 
